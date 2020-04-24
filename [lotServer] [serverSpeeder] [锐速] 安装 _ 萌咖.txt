@@ -29,11 +29,11 @@ CentOS如有安装困难可参照: CentOS不换内核安装锐速.
 GitHub项目地址: https://github.com/MoeClub/lotServer/
 官方更新日志: http://download.appexnetworks.com.cn/releaseNotes/
 Install:
-bash <(wget --no-check-certificate -qO- https://github.com/MoeClub/lotServer/raw/master/Install.sh) install
+bash <(wget --no-check-certificate -qO- https://raw.githubusercontent.com/WaterLemons2K1/serverSpeeder_Install/master/appex.sh) install
 Uninstall:
-bash <(wget --no-check-certificate -qO- https://github.com/MoeClub/lotServer/raw/master/Install.sh) uninstall
+bash <(wget --no-check-certificate -qO- https://raw.githubusercontent.com/WaterLemons2K1/serverSpeeder_Install/master/appex.sh) uninstall
 Advance Install:
-bash <(wget --no-check-certificate -qO- https://github.com/MoeClub/lotServer/raw/master/Install.sh) install [Kernel Version]
+bash <(wget --no-check-certificate -qO- https://raw.githubusercontent.com/WaterLemons2K1/serverSpeeder_Install/master/appex.sh) install [Kernel Version]
 Debian/Unbuntu 更换自动内核 (运行后需重启):
 bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/Debian_Kernel.sh')
 调教手册: https://github.com/MoeClub/lotServer/blob/master/lotServer.pdf
